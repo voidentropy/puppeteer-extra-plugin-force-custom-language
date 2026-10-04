@@ -2,7 +2,7 @@
   "name": "puppeteer-extra-plugin-force-custom-language",
   "repository": "github:voidentropy/puppeteer-extra-plugin-force-custom-language",
   "homepage": "https://github.com/voidentropy/puppeteer-extra-plugin-force-custom-language/#readme",
-  "version": "2.1.10",
+  "version": "2.1.11",
   "description": "Force browser language.",
   "main": "index.js",
   "types": "index.d.ts",
